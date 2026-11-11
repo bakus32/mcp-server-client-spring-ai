@@ -1,4 +1,4 @@
-package ci.bakus.younous.agents;
+package ci.bakus.younous.mcpclient.agents;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;

@@ -1,4 +1,4 @@
-package ci.bakus.younous;
+package ci.bakus.younous.mcpclient;
 
 import io.modelcontextprotocol.client.McpSyncClient;
 import io.modelcontextprotocol.spec.McpSchema;

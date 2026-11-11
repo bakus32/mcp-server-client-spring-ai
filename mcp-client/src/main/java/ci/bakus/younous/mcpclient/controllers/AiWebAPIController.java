@@ -1,6 +1,6 @@
-package ci.bakus.younous.controllers;
+package ci.bakus.younous.mcpclient.controllers;
 
-import ci.bakus.younous.agents.MyAIAgent;
+import ci.bakus.younous.mcpclient.agents.MyAIAgent;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

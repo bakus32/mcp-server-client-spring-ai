@@ -1,4 +1,4 @@
-package ci.bakus.younous.config;
+package ci.bakus.younous.mcpclient.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
