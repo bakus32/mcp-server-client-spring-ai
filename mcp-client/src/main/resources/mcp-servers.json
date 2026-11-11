@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/bakayokoyounous/Downloads/mcp-server-client-spring-ai-main/sse-mcp-server"
+      ]
+    },
+    "Python-MCP-Server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/bakayokoyounous/Downloads/mcp-server-client-spring-ai-main/python-mcp-server/server.py"
+      ]
+    }
+  }
+}
